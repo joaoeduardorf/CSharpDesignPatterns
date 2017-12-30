@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{390FDFAD-A779-4BA8-A3B9-64C56A0923C1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AlertLevelProject/README.md">
+    <Files>
+      <File FileName="AlertLevelProject/Program.cs" Line="18" Column="23" />
+      <File FileName="AlertLevelProject/AlertLevelBase.cs" Line="4" Column="9" />
+      <File FileName="AlertLevelProject/Red.cs" Line="5" Column="9" />
+      <File FileName="AlertLevelProject/Yellow.cs" Line="10" Column="13" />
+      <File FileName="AlertLevelProject/Green.cs" Line="10" Column="13" />
+      <File FileName="AlertLevelProject/README.md" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Behavioral.ChainOfResponsibility.AlertLevelProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
